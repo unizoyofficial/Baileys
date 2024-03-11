@@ -1,4 +1,4 @@
-import makeWASocket from './Socket'
+import makeWASocket from './Socket/index.ts'
 
 export * from '../WAProto'
 export * from './Utils'
